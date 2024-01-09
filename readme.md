@@ -1,4 +1,4 @@
-# Reinforcement Learning Algorithms Implementation
+# RLsforDummy: Simple and straigtforawrd implementation of RL algorithms
 
 ![LunarLander](./runs/PPo/LunarLanderSol/eval.gif)
 
